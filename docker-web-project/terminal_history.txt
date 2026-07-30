@@ -1,0 +1,16 @@
+   11  docker compose ps
+   12  cat .env
+   13  docker compose config
+   14  docker compose down
+   15  docker compose up -d
+   16  docker compose ps
+   17  git add .
+   18  git commit
+   19  git push
+   20  git push
+   21  git add .
+   22  git coomit -m docker bonus
+   23  git commit -m docker bonus
+   24  git commit -m "Docker Compose 기초 설정 추가"
+   25  git push
+   26  history
